@@ -12,5 +12,4 @@ To setup and use:
 (3) Re-add the starter content using the "add" button in the content drawer.  
 (4) Save and close the unreal editor.  
 (5) Re-open the project as above.  
-(6) If presented with a Lighting Needs to Be Rebuilt Error, go to the menu bar  
-    and hit "Build -> Build Lighting Only".  
+(6) If presented with a Lighting Needs to Be Rebuilt Error, go to the menu bar and hit "Build -> Build Lighting Only".  
